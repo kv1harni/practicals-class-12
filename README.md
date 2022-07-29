@@ -2,7 +2,7 @@
 class 12 practicals
 
 
-#made by
+## made by
 * Aayush Mishra
 * Milind Shandiliya
 * Omkar Mahindrakar
