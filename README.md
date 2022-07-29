@@ -3,7 +3,7 @@ class 12 practicals
 
 
 ## made by
-* @iamAayushMishra
-* @milind899
-* @ArceusOmkar7
+* [Aayush Mishra](https://github.com/iamAayushMishra)
+* [Milind Shandilya](https://github.com/milind899)
+* [Omkar Mahindrakar](https://github.com/ArceusOmkar7)
 * Aditiya Mishra
