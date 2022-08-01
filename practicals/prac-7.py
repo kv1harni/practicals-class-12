@@ -22,4 +22,5 @@ n = len(L)
 element = int(input("Enter the element that you want to search: "))
 #calling the function and storing as variable
 found = binary_search(L, element, 0, n-1)
+#printing the index of element found
 print(f"element found at index {found}")
