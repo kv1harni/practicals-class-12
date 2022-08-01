@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #6d6fed">Python Practicals</h1>
+<h1 align="center" style="color: #6d6fed;">Python Practicals</h1>
 class 12 practicals included in Cbse Exams for class 12
 
 
