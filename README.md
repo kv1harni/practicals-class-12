@@ -7,3 +7,4 @@ class 12 practicals
 * [Milind Shandilya](https://github.com/milind899)
 * [Omkar Mahindrakar](https://github.com/ArceusOmkar7)
 * Aditiya Mishra
+* Vikramaditya Singh
