@@ -1,5 +1,5 @@
-# practicals-Class-12
-class 12 practicals
+# Practicals-Class-12
+class 12 practicals included in Cbse Exams for class 12
 
 
 ## made by
