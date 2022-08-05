@@ -11,4 +11,4 @@ for i in range (n):
     r = title +" , " + price + "\n"
     fout.write(r)
 
-fout.close
+fout.close()
