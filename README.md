@@ -8,3 +8,6 @@ class 12 practicals included in Cbse Exams for class 12
 * [Omkar Mahindrakar](https://github.com/ArceusOmkar7)
 * Aditiya Mishra
 * Vikramaditya Singh
+
+
+* [mysql projects](https://pythonworld.in/practical-project/project-list/)
