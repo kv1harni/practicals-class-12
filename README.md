@@ -11,3 +11,6 @@ class 12 practicals included in Cbse Exams for class 12
 
 
 * [mysql projects](https://pythonworld.in/practical-project/project-list/)
+
+
+https://www.tutorialaicsip.com/cs-xii-pra/computer-science-practical-paper-2023-class-12/
